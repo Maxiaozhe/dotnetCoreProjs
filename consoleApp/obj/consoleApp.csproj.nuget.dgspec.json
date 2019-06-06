@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj": {}
+    "D:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj": {
+    "D:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj",
+        "projectUniqueName": "D:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj",
         "projectName": "consoleApp",
-        "projectPath": "d:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj",
+        "projectPath": "D:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\consoleApp.csproj",
         "packagesPath": "C:\\Users\\Administrator.TRPCMSS00189\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\obj\\",
+        "outputPath": "D:\\Projects\\Alicorn\\dotnetCore\\consoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
