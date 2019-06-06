@@ -1,0 +1,11 @@
+D:\Projects\Alicorn\dotnetCore\consoleApp\bin\Debug\netcoreapp2.2\consoleApp.deps.json
+D:\Projects\Alicorn\dotnetCore\consoleApp\bin\Debug\netcoreapp2.2\consoleApp.runtimeconfig.json
+D:\Projects\Alicorn\dotnetCore\consoleApp\bin\Debug\netcoreapp2.2\consoleApp.runtimeconfig.dev.json
+D:\Projects\Alicorn\dotnetCore\consoleApp\bin\Debug\netcoreapp2.2\consoleApp.dll
+D:\Projects\Alicorn\dotnetCore\consoleApp\bin\Debug\netcoreapp2.2\consoleApp.pdb
+D:\Projects\Alicorn\dotnetCore\consoleApp\obj\Debug\netcoreapp2.2\consoleApp.csprojAssemblyReference.cache
+D:\Projects\Alicorn\dotnetCore\consoleApp\obj\Debug\netcoreapp2.2\consoleApp.csproj.CoreCompileInputs.cache
+D:\Projects\Alicorn\dotnetCore\consoleApp\obj\Debug\netcoreapp2.2\consoleApp.AssemblyInfoInputs.cache
+D:\Projects\Alicorn\dotnetCore\consoleApp\obj\Debug\netcoreapp2.2\consoleApp.AssemblyInfo.cs
+D:\Projects\Alicorn\dotnetCore\consoleApp\obj\Debug\netcoreapp2.2\consoleApp.dll
+D:\Projects\Alicorn\dotnetCore\consoleApp\obj\Debug\netcoreapp2.2\consoleApp.pdb
