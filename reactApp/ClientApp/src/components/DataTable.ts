@@ -1,0 +1,4 @@
+interface DataTable{
+    head :
+    rows:[]
+}
