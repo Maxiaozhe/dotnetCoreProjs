@@ -11,7 +11,7 @@
                     "id": "bun2qf7jsjs0",
                     "created": 1559867087266,
                     "text": "基本类型",
-                    "expandState": "collapse",
+                    "expandState": "expand",
                     "layout": null
                 },
                 "children": [
@@ -239,7 +239,7 @@
                     "created": 1559874434159,
                     "text": "类型断言",
                     "layout": null,
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -271,7 +271,7 @@
                     "id": "bun5xy89d4g0",
                     "created": 1559876140547,
                     "text": "变量声明",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -305,7 +305,7 @@
                     "id": "bun5xy8binc0",
                     "created": 1559876140550,
                     "text": "解构",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -383,7 +383,7 @@
                     "id": "bun5xy8dey00",
                     "created": 1559876140554,
                     "text": "展开",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -446,7 +446,7 @@
                     "id": "bun70tkr9rs0",
                     "created": 1559879186621,
                     "text": "接口",
-                    "expandState": "collapse"
+                    "expandState": "expand"
                 },
                 "children": [
                     {
@@ -502,6 +502,6 @@
         ]
     },
     "template": "default",
-    "theme": "fresh-green",
+    "theme": "fresh-green-compat",
     "version": "1.4.43"
 }
